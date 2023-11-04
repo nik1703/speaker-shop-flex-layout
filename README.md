@@ -1,7 +1,7 @@
 # Speaker Shop Flex Layout
 I completed this task as a part of my web development course at DCI (Digital Career Institute).
 
-You can view my final result below or by [clicking here.](https://www.google.de/)
+You can view my final result below or by [clicking here.](https://nik1703.github.io/speaker-shop-flex-layout/)
 
 ![result preview](./images/result-preview.gif "preview of the result")
 
